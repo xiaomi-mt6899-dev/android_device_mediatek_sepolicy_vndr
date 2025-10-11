@@ -89,6 +89,8 @@ vendor.mediatek.hardware.mtkradioex.rcs.IMtkRadioExRcs/slot1             u:objec
 vendor.mediatek.hardware.mtkradioex.rcs.IMtkRadioExRcs/slot2             u:object_r:hal_radio_service:s0
 vendor.mediatek.hardware.mtkradioex.rcs.IMtkRadioExRcs/slot3             u:object_r:hal_radio_service:s0
 vendor.mediatek.hardware.mtkradioex.rcs.IMtkRadioExRcs/slot4             u:object_r:hal_radio_service:s0
+vendor.mediatek.hardware.mtkradioex.dch.IMtkRadioExDc/slot1              u:object_r:hal_radio_service:s0
+vendor.mediatek.hardware.mtkradioex.dch.IMtkRadioExDc/slot2              u:object_r:hal_radio_service:s0
 
 # Data: 2022/01/10
 # add telephony aidl
